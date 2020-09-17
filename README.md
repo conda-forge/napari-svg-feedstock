@@ -5,7 +5,7 @@ Home: https://github.com/napari/napari-svg
 
 Package license: BSD-3-Clause
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: An io plugin for reading and writing svg files with napari
 
