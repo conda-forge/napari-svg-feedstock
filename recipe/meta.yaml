@@ -27,8 +27,8 @@ requirements:
     - python >=3.6
 
 test:
-  imports:
-    - napari_svg
+  commands:
+    - xvfb-run --auto-servernum python -c "import napari_svg"
 
 about:
   home: https://github.com/napari/napari-svg
