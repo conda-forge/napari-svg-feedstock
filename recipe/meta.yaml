@@ -11,7 +11,7 @@ source:
 
 build:
   noarch: python
-  number: 0
+  number: 1
   script: {{ PYTHON }} -m pip install . -vv
 
 requirements:
@@ -25,7 +25,6 @@ requirements:
     - napari-plugin-engine >=0.1.4
     - vispy >=0.6.4
     - python >=3.6
-    - napari
 
 test:
   commands:
