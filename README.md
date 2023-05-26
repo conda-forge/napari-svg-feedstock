@@ -1,11 +1,11 @@
-About napari-svg
-================
+About napari-svg-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/napari-svg-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/napari/napari-svg
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/napari-svg-feedstock/blob/main/LICENSE.txt)
 
 Summary: An io plugin for reading and writing svg files with napari
 
