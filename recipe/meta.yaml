@@ -1,5 +1,5 @@
 {% set name = "napari-svg" %}
-{% set version = "0.1.7" %}
+{% set version = "0.1.8" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: d9d60a049a5b16138ae827fa4eefa40434643894f9f337a7fd6c53de3cd5e4a9
+  sha256: b042af60425ffdd19cfc37720bc1afe247db5d07122e9047d8e23b34fdbd941f
 
 build:
   noarch: python
