@@ -16,7 +16,7 @@ build:
 
 requirements:
   host:
-    - python >=3.7
+    - python >=3.9
     - pip
     - setuptools_scm
   run:
@@ -24,7 +24,7 @@ requirements:
     - numpy >=1.16.0
     - napari-plugin-engine >=0.1.4
     - vispy >=0.6.4
-    - python >=3.7
+    - python >=3.9
 
 test:
   commands:
