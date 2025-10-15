@@ -47,6 +47,7 @@ about:
 
 extra:
   recipe-maintainers:
+    - conda-forge/napari
     - sofroniewn
     - tlambert03
     - jni
